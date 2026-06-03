@@ -1,4 +1,4 @@
-#  Smart Crop Recommendation Dashboard
+#  Smart Crop Recommendation System
 
 An AI-powered, enterprise-grade agricultural analytics dashboard that leverages Machine Learning to predict the most optimal crop cultivars for cultivation based on real-time soil chemistry profiles and microclimate indices.
 
